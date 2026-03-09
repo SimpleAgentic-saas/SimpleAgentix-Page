@@ -1,0 +1,15 @@
+{
+  "name": "SimpleAgentix Landing Page ",
+  "description": "Agentic AI Automation workflow in Vernacular Next-GEN SaaS Platform to Interactive Generative AI Features.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "input": {
+    "API_KEY": {
+      "type": "string",
+      "secret": true
+    }
+  }
+}
